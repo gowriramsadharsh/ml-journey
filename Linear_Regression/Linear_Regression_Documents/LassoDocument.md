@@ -235,8 +235,4 @@ Ridge says:
 
 ---
 
-📌 This document is ready to push to GitHub as:
 
-```
-Lasso_Regression_From_Doubts_to_Clarity.md
-```
